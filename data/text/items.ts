@@ -2232,6 +2232,6 @@ export const ItemsText = {
     },
 	testitem: {
         name: "Test Item",
-        desc: "Does shit alot.",
+        desc: "Does shit a lot.",
     },
 };
