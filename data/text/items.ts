@@ -2230,8 +2230,4 @@ export const ItemsText = {
         name: "Fire Wood",
         desc: "Raises holder's Attack by 1 if hit by an Fire-type attack. Single use.",
     },
-	testitem: {
-        name: "Test Item",
-        desc: "Does shit a lot.",
-    },
 };
